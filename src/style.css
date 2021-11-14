@@ -1,0 +1,126 @@
+.superior {
+    background-color: #EDD892;
+    width: 800px;
+    height: 10px;  
+}
+
+.principal {
+    background-color: #EDD892;
+     width: 1000px;;   
+    margin-top: -20px ; 
+    align-items: center;    
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.titulo {
+    width: 955px;
+    height: 80px;
+    background-color: #B5B8A3;    
+    margin: 15px 15px auto;
+    padding: 07px;
+    font-style: Arial;
+    border : 1px solid black;
+
+}
+li {
+    list-style: none;
+    width: 970px;
+    padding: 15px;
+     
+}
+.users {    
+    background: #EDD892;
+    margin: auto; 
+       
+}
+
+.users-menu {
+    display: flex;
+    text-align:center;
+    background: #AABA9E;
+    border : 1px solid black;
+    height: 220px;
+
+}
+
+.imagem {    
+    width: 200px;
+    height: 300px;
+    padding-top: 20px;   
+}
+
+.imagem img {
+    width: 150px;    
+    height: 180px;
+    
+}
+
+.descricao {
+    width: 75%;
+}
+
+.descricao {
+    display: flex !important;
+    justify-content: center;
+    height: 0px;
+    
+}
+
+.usuario {
+    background:#FCB97D;
+    width: 230px;
+    height: 35px;
+    font-style: Arial;
+    font-size: 20px;
+    border : 1px solid black;
+    
+}
+
+.nome {
+    background: #FCB97D;
+    width: 500px;
+    height: 35px;
+    text-align: center;
+    font-style: Arial;
+    font-size: 20px;
+    border : 1px solid black;
+}
+
+
+.descricaoemail {
+    display: block;
+    background: #FCB97D;
+    width: 750px;
+    height: 35px;
+    margin-top: 65px;
+    margin-left: 15px;  
+    position: absolute;
+    font-style: Arial;  
+    border : 1px solid black;  
+}
+
+.bio {
+    display: block;
+    background:#FCB97D;
+    width: 750px;
+    height: 90px;
+    margin-top: 110px;
+    margin-left: 15px;  
+    position: absolute;
+    font-style: Arial;    
+    border : 1px solid black;
+}
+
+p.usuario{
+    margin-left: -35px;
+}
+p.nome{
+    margin-left: 15px;  
+    margin-right: -50px;
+}
+
+
